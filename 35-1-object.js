@@ -20,8 +20,6 @@ player.bat();
 
 
 
-
-
 const student = {
     name: 'pande ',
     job: 'khay ande',
@@ -32,9 +30,6 @@ const student = {
 
 
 }
-
-
-
 
 
 
